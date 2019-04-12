@@ -19,7 +19,7 @@
 - ##### Wechat Mini Program
 1. [UPC_Food](https://github.com/Veagau/UPC_Food)
 2. UPC_Health
-3. UPC_Guide
+3. [UPC_Guide](https://github.com/Veagau/UPC_Guide)
 
 - ##### others
 
